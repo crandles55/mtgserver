@@ -297,3 +297,4 @@ includeFile("conversations/junk_dealer/junk_dealer_sneg_conv.lua")
 
 -- Custom Conversations
 includeFile("custom_content/conversations.lua")
+includeFile("conversations/tasks/merch_crazy_larry_conv.lua")

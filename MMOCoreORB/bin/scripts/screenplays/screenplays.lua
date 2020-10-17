@@ -673,3 +673,4 @@ includeFile("events/ServerEventAutomation.lua")
 includeFile("../custom_scripts/screenplays/screenplays.lua")
 
 includeFile("custom_screenplays/screenplays.lua")
+includeFile("tasks/naboo/merch_crazy_larry.lua")
