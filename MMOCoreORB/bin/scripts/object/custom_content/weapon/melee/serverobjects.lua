@@ -91,6 +91,7 @@ includeFile("custom_content/weapon/melee/som_2h_sword_obsidian.lua")
 includeFile("custom_content/weapon/melee/som_2h_sword_obsidian_generic.lua")
 includeFile("custom_content/weapon/melee/som_2h_sword_tulrus.lua")
 includeFile("custom_content/weapon/melee/som_2h_sword_tulrus_generic.lua")
+includeFile("custom_content/weapon/melee/2handed/serverobjects.lua")
 
 
 --2H SWORD/CRAFTED_SABER

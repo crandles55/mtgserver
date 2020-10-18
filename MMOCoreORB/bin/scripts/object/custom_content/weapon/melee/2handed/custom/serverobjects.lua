@@ -1,0 +1,1 @@
+includeFile("custom_content/weapon/melee/2handed/custom/banhammer.lua")
