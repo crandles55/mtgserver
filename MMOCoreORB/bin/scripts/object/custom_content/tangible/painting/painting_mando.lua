@@ -1,0 +1,3 @@
+object_tangible_painting_painting_mando = object_tangible_painting_shared_painting_mando:new {
+}
+ObjectTemplates:addTemplate(object_tangible_painting_painting_mando, "object/tangible/painting/painting_mando.iff")

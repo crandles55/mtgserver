@@ -114,3 +114,7 @@ object_tangible_painting_shared_painting_wod_sm_02 = SharedTangibleObjectTemplat
 }
 ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_wod_sm_02, "object/tangible/painting/shared_painting_wod_sm_02.iff")
 --**********************************************************************************************************************************
+object_tangible_painting_shared_painting_mando = SharedTangibleObjectTemplate:new {
+    clientTemplateFileName = "object/tangible/painting/shared_painting_mando.iff"
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_mando, "object/tangible/painting/shared_painting_mando.iff")
