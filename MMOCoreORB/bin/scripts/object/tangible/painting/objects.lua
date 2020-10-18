@@ -4699,11 +4699,3 @@ object_tangible_painting_shared_painting_zabrak_f = SharedTangibleObjectTemplate
 	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/tangible/base/shared_tangible_base.iff", "object/tangible/base/shared_tangible_craftable.iff", "object/tangible/furniture/base/shared_furniture_base.iff"}
 ]]
 }
-
-ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_mando, "object/tangible/painting/shared_painting_mando.iff")
-
-object_tangible_painting_shared_painting_mando = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/painting/shared_painting_mando.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_mando, "object/tangible/painting/shared_painting_mando.iff")
